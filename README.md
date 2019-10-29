@@ -1,6 +1,6 @@
 # Meetup Reprograma
 ## Introdução ao SASS
-Esse repositório, é referente ao meetup reprograma do dia 29/10/2019. Onde, abordamos uma uma pequena introdução ao SASS, mostrando os conceitos básico, instalação e execução para aplicação em uma página web. 
+Esse repositório, é parte do material complementar ao Meetup Online  da {Reprograma} que acontece no dia 29/10/2019. Onde abordamos uma uma pequena introdução ao SASS (conceitos básico, instalação e execução para aplicação em uma página web). 
 
 ![Capa Carrossel](./projeto-pratico/assets/img/capa-meetup-reprograma.PNG)
 
@@ -50,19 +50,19 @@ Para instalação global:
 
 ou
 
-Instalação pelo gerencioador de pacote "Chocolatey":
+Instalação pelo gerenciador de pacotes "Chocolatey":
 
     choco install sass
 
 **Para instação  no Mac**
 
-Instalação pelo gerencioador de pacote "Homebrew":
+Instalação pelo gerenciador de pacotes "Homebrew":
 
     choco install sass
 
 ## Executando o SASS
 
-O navegador não renderiza o sass nativamente, para que isso possa ocorrer é necesssario a criação de um arquivo css.
+O navegador não renderiza o sass nativamente, para que isso ocorra é necesssario a criação de um arquivo css.
 
 Seguindo o seguinte comando:
 
@@ -76,11 +76,11 @@ Documentação do SASS - "Obs: **documentação em inglês"**:
 [Sass-documentation](https://sass-lang.com "Clique e acesse agora!")
 
 
-Gerenciador de pacote **Chocolatey**:
+Gerenciador de pacotes **Chocolatey**:
 
 [chocolatey.org](https://chocolatey.org/ "Clique e acesse agora!")
 
-Gerenciador de pacote **Homebrew**:
+Gerenciador de pacotes **Homebrew**:
 
 [homebrew](https://brew.sh "Clique e acesse agora!")
 
