@@ -93,5 +93,6 @@ Texto Medium:
 
 [O que é SASS. E porque você deveria começar a utilizá-lo.](https://medium.com/@thejasonfile/getting-started-with-sass-dedb271bdf5a "Clique e acesse agora!")
 
-[Getting Started with Sass](https://medium.com/@ksykes/getting-started-with-sass-48cedde031c0 "Clique e acesse agora!")
+[Um guia para iniciantes](https://www.igluonline.com/introducao-ao-sass-um-guia-para-iniciantes/ "Clique e acesse agora!")
 
+[Getting Started with Sass](https://medium.com/@ksykes/getting-started-with-sass-48cedde031c0 "Clique e acesse agora!")
