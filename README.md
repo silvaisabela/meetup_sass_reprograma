@@ -22,11 +22,11 @@ Para instalar as dependências do projeto, execute os seguintes comandos no term
     npm install
 
 
-Para compilar o arquivo style.scss para style.css, execute o comando:
+Para transpilação(compilação) o arquivo style.scss para style.css, execute o comando:
 
     npm run compile
 
-Para monitorar a compilação do arquivo style.css execute:
+Para monitorar a transpilação(compilação) do arquivo style.css execute:
 
     npm run watch
 
@@ -38,7 +38,7 @@ Execute o arquivo abaixo para inicialização do projeto:
 
 ## Link de acesso ao slide do meetup
 
-[Introdução ao SASS](https://docs.google.com/presentation/d/e/2PACX-1vRPvqtCK8JKuaunxc2L7aMITGjroh0YJTQFjOzfl6ho6lICVleU8p7FqKQKs1TjdQ5DFBRpoBG-eb-d/pub?start=false&loop=false&delayms=3000&slide=id.g477bbb5bbb_0_4 "Clique e acesse agora!")
+[Introdução ao SASS](https://docs.google.com/presentation/d/e/https://docs.google.com/presentation/d/e/2PACX-1vRPvqtCK8JKuaunxc2L7aMITGjroh0YJTQFjOzfl6ho6lICVleU8p7FqKQKs1TjdQ5DFBRpoBG-eb-d/pub?start=false&loop=false&delayms=3000 "Clique e acesse agora!")
 
 ## Instalado o SASS
 
@@ -58,7 +58,7 @@ Instalação pelo gerenciador de pacotes "Chocolatey":
 
 Instalação pelo gerenciador de pacotes "Homebrew":
 
-    choco install sass
+    brew install sass/sass/sass
 
 ## Executando o SASS
 
