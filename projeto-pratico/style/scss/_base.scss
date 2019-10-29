@@ -1,3 +1,20 @@
 body{
-    background-color: #7F80AC;
+    background-color: $color-bground;
+}
+
+p{
+    margin: 0;
+    padding: 0;
+}
+
+button{
+    cursor: pointer;
+    outline: none;
+    border: none;
+}
+
+
+.container{
+    width: 90%;
+    margin: 0 auto;
 }

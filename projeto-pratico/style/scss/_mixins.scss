@@ -1,0 +1,7 @@
+@mixin button ($bg-color, $boder-color){
+    border-radius: 50%;
+    color: $color-iconButton;
+    background-color: $color;
+    border: $boder-color;
+}
+
