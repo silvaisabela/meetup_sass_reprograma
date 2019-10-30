@@ -24,11 +24,11 @@ Para instalar as dependências do projeto, execute os seguintes comandos no term
 
 Para transpilação(compilação) o arquivo style.scss para style.css, execute o comando:
 
-    npm run compile
+    npm sass-biuld
 
 Para monitorar a transpilação(compilação) do arquivo style.css execute:
 
-    npm run watch
+    npm sass-watch
 
 Execute o arquivo abaixo para inicialização do projeto:
 
@@ -38,7 +38,7 @@ Execute o arquivo abaixo para inicialização do projeto:
 
 ## Link de acesso ao slide do meetup
 
-[Introdução ao SASS](https://docs.google.com/presentation/d/e/https://docs.google.com/presentation/d/e/2PACX-1vRPvqtCK8JKuaunxc2L7aMITGjroh0YJTQFjOzfl6ho6lICVleU8p7FqKQKs1TjdQ5DFBRpoBG-eb-d/pub?start=false&loop=false&delayms=3000 "Clique e acesse agora!")
+[Introdução ao SASS](https://docs.google.com/presentation/d/e/2PACX-1vRPvqtCK8JKuaunxc2L7aMITGjroh0YJTQFjOzfl6ho6lICVleU8p7FqKQKs1TjdQ5DFBRpoBG-eb-d/pub?start=false&loop=false&delayms=3000 "Clique e acesse agora!")
 
 ## Instalado o SASS
 
@@ -94,5 +94,9 @@ Texto Medium:
 [O que é SASS. E porque você deveria começar a utilizá-lo.](https://medium.com/@thejasonfile/getting-started-with-sass-dedb271bdf5a "Clique e acesse agora!")
 
 [Um guia para iniciantes](https://www.igluonline.com/introducao-ao-sass-um-guia-para-iniciantes/ "Clique e acesse agora!")
+
+[Bolg Caelum](https://blog.caelum.com.br/10-mixins-sass-que-voce-deveria-usar-em-seus-projetos/ "Clique e acesse agora!")
+
+[16 Dicas de Sass para facilitar sua vida](https://desenvolvimentoparaweb.com/css/sass-dicas-parte-1/ "Clique e acesse agora!")
 
 [Getting Started with Sass](https://medium.com/@ksykes/getting-started-with-sass-48cedde031c0 "Clique e acesse agora!")

@@ -1,7 +1,12 @@
-@mixin button ($bg-color, $boder-color){
+@mixin button ($color-icon, $bg-color, $boder-color){
     border-radius: 50%;
-    color: $color-iconButton;
-    background-color: $color;
+    color: $color-icon;
+    background-color: $bg-color;
     border: $boder-color;
 }
 
+ @mixin flex ($space, $align) {
+     display: flex;
+     justify-content: $space;
+     align-items: $align;
+     }

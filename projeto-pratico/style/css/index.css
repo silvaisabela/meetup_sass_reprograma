@@ -27,7 +27,7 @@ button {
   height: 100px;
   width: 100%;
   display: flex;
-  justify-content: center;
+  justify-content: space-around;
   align-items: center;
   flex-direction: column;
   background-color: #EEC2E4;
@@ -45,6 +45,9 @@ button {
 }
 .card .header__button {
   border-radius: 50%;
+  color: #ffffff;
+  background-color: #EEC2E4;
+  border: 1px solid #EEC2E4;
   position: absolute;
   left: 95%;
   bottom: 85%;
@@ -52,9 +55,6 @@ button {
   width: 30px;
   text-align: center;
   font-size: 23px;
-  color: white;
-  border: 1px solid #EEC2E4;
-  background-color: #EEC2E4;
   box-shadow: 0px 0px 5px 0.5px #636363;
 }
 
@@ -92,16 +92,17 @@ button {
 .card__page {
   width: 100%;
   display: flex;
-  flex-direction: column;
+  justify-content: initial;
   align-items: center;
+  flex-direction: column;
 }
 
 .card__group {
   width: 90%;
   margin: 20px;
   display: flex;
-  align-items: center;
   justify-content: space-around;
+  align-items: center;
 }
 
 /*# sourceMappingURL=index.css.map */

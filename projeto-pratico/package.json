@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "sass-compile": "sass style/scss/main.scss style/css/index.css",
+    "sass-build": "sass style/scss/main.scss style/css/index.css",
     "sass-watch": "sass style/scss/main.scss style/css/index.css --watch"
   },
   "author": "Isabela Silva <“eu.silvaisabela@gmail.com”>",
